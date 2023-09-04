@@ -53,7 +53,7 @@ const Testimonials = () => {
                                     src="https://i.pravatar.cc/300"
                                     className="w-[80px] h-[80px] max-w-[80px] rounded-full"
                                 />
-                                <div className="font-bold">John Doy</div>
+                                <div className="font-bold">Hafiz Adil</div>
                                 <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center">
                                     Client
                                 </div>
